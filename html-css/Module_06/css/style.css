@@ -39,8 +39,8 @@ img {
 .page-header {
   display: flex;
   justify-content: space-between;
-  padding-top: 22px;
-  padding-bottom: 118px;
+  padding-top: 25px;
+  padding-bottom: 110px;
 }
 
 .page-nav {
@@ -61,6 +61,7 @@ img {
   align-self: center;
   flex-wrap: wrap;
   align-content: flex-end;
+  min-height: 30px;
 }
 
 .site-logo,
@@ -341,8 +342,8 @@ img {
 /* SOCIAL ICONS */
 .social-list {
   position: absolute;
-  top: 196px;
-  left: 68px;
+  top: 206px;
+  left: 78px;
   font-size: 14px;
   display: flex;
   justify-content: center;
